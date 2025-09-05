@@ -1,2 +1,2 @@
 # DNU_FIT4007_JavaoOOP_Canhan
-ưefjlkewfjew
+Bài tập thực hành cá nhân - học phần lập trình hướng đối tượng với java
